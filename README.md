@@ -31,3 +31,5 @@ Load up the client! When you are in, copy the link, paste it in the add server s
 Your eaglercraft server is setup!
 
 PS: You can use this as a normal server too (like properly hosted) just clone this repo and run it in much the same way.
+
+PSS: /ved.buhtig.5w6fxx69q94r4xg5-renniw-erutainim//:sptth
