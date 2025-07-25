@@ -32,4 +32,4 @@ Your eaglercraft server is setup!
 
 PS: You can use this as a normal server too (like properly hosted) just clone this repo and run it in much the same way.
 
-PSS: /ved.buhtig.5w6fxx69q94r4xg5-renniw-erutainim//:sptth
+PSS: /ved.buhtig.g777fg96rwj499479-tuort-lanoitcif//:sptth
